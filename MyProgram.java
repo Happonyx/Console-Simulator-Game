@@ -766,7 +766,7 @@ public class MyProgram
                 userChoice = input.nextLine();
                 System.out.print("\u001b[0m");
                 
-                if (userChoice.equals("Galaxy3527")){
+                if (userChoice.equals("testingtesting123")){
                     System.out.print("\u001b[0m" + "\u001B[2J" + "\u001B[0;0f");
                     System.out.print("Enter command (\"r\" to return): ");
                     userChoice = input.nextLine();
